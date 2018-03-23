@@ -1,7 +1,6 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a property rental site called Super Rentals that was build for study Ember.
 
 ## Prerequisites
 
